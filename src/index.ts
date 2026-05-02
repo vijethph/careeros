@@ -1,127 +1,51 @@
+import { LuaAgent } from "lua-cli";
+import profileSkill from "./skills/profile-skill";
+
 /**
- * careeros — AI-powered job search pipeline on Lua AI
+ * Your Lua AI Agent
  *
- * Entry point that wires together ScanAgent → EvaluationAgent → CVAgent.
+ * This is a minimal agent ready for you to customize.
+ * Add skills, webhooks, jobs, and processors as needed.
  *
- * Usage:
- *   npx ts-node src/index.ts
+ * Quick start:
+ *   1. Create a tool in src/skills/tools/MyTool.ts
+ *   2. Create a skill in src/skills/my.skill.ts
+ *   3. Import and add it to the skills array below
+ *   4. Run `lua test` to test your tool
+ *   5. Run `lua chat` to chat with your agent
  *
- * In a production Lua AI deployment each agent would be registered as a
- * managed LuaAgent with a cron schedule, webhook trigger, or on-demand
- * invocation via the Lua AI dashboard.
+ * Need examples? Run `lua init --with-examples` in a new project
+ * or see: https://docs.heylua.ai/examples
  */
+const agent = new LuaAgent({
+  name: "cv-skills-agent", // Set during lua init
+  persona: `You are a CV ingestion and profile assistant. When the user provides a CV file or text, call parse_cv, then extract_skills, then sync_profile_from_cv. Before any job evaluation, call get_profile_features and use the returned features and skills. When the user wants to change target roles, levels, locations, or salary, call update_profile.
+`,
+  model: "anthropic/claude-sonnet-4-6",
+  // Add your skills here
+  skills: [profileSkill],
 
-import { ScanAgent } from "./agents/scanAgent";
-import { EvaluationAgent } from "./agents/evaluationAgent";
-import { CVAgent } from "./agents/cvAgent";
-import { JobOffer, EvaluationResult } from "./types";
+  // Optional: Add webhooks for external integrations
+  // webhooks: [],
 
-// ---------------------------------------------------------------------------
-// Candidate profile — edit this to match your background and preferences
-// ---------------------------------------------------------------------------
+  // Optional: Add scheduled jobs
+  // jobs: [],
 
-const CANDIDATE_PROFILE = {
-  summary: "Full-stack software engineer with 5+ years building scalable web systems.",
-  targetTitles: ["software engineer", "full-stack engineer", "backend engineer"],
-  seniority: ["senior", "staff", "lead"],
-  salaryTargetMin: 150_000,
-  salaryTargetMax: 220_000,
-  preferredLocations: ["remote", "new york", "san francisco"],
-};
+  // Optional: Add message preprocessors
+  // preProcessors: [],
 
-// ---------------------------------------------------------------------------
-// Pipeline
-// ---------------------------------------------------------------------------
+  // Optional: Add response postprocessors
+  // postProcessors: [],
+});
 
-async function runPipeline(): Promise<void> {
-  console.log("=== careeros pipeline starting ===\n");
-
-  // Step 1 — Scan portals for new offers
-  console.log("→ [1/3] Scanning job portals…");
-  const scanAgent = new ScanAgent({
-    filter: {
-      keywords: CANDIDATE_PROFILE.targetTitles,
-      excludeKeywords: ["intern", "contract", "part-time"],
-      locations: CANDIDATE_PROFILE.preferredLocations,
-      remoteOnly: false,
-    },
-  });
-
-  const scanResult = await scanAgent.run();
-  console.log(`   Found ${scanResult.newOffers.length} new offer(s).\n`);
-
-  if (scanResult.newOffers.length === 0) {
-    console.log("No new offers found. Pipeline complete.");
-    return;
-  }
-
-  // Step 2 — Evaluate each offer
-  console.log("→ [2/3] Evaluating offers…");
-  const evaluationAgent = new EvaluationAgent({
-    profile: CANDIDATE_PROFILE,
-    aiProvider: "anthropic",
-  });
-
-  const evaluations: EvaluationResult[] = [];
-  for (const offer of scanResult.newOffers) {
-    const evaluation = await evaluationAgent.evaluate(offer);
-    evaluations.push(evaluation);
-    console.log(
-      `   ${offer.title} @ ${offer.company} — score: ${evaluation.overallScore}/5`
-    );
-  }
-  console.log();
-
-  // Filter to only strong matches (score ≥ 3.5)
-  const strongMatches = scanResult.newOffers.filter((offer) => {
-    const ev = evaluations.find((e) => e.offerId === offer.id);
-    return ev && ev.overallScore >= 3.5;
-  });
-
-  console.log(`   ${strongMatches.length} strong match(es) (score ≥ 3.5).\n`);
-
-  if (strongMatches.length === 0) {
-    console.log("No strong matches this scan. Pipeline complete.");
-    return;
-  }
-
-  // Step 3 — Generate tailored CVs for strong matches
-  console.log("→ [3/3] Generating tailored CVs…");
-  const cvAgent = new CVAgent();
-
-  for (const offer of strongMatches) {
-    const evaluation = evaluations.find((e) => e.offerId === offer.id)!;
-
-    // NOTE: Replace "master-cv.md" with the path to your actual master CV file.
-    const masterCVPath = process.env.MASTER_CV_PATH ?? "master-cv.md";
-
-    try {
-      const cvResult = await cvAgent.generate({
-        offer,
-        evaluation,
-        masterCVPath,
-        outputFormat: "markdown",
-      });
-
-      console.log(
-        `   CV generated for "${offer.title} @ ${offer.company}" (${cvResult.format}, ${cvResult.content.length} chars)`
-      );
-    } catch (err) {
-      console.warn(
-        `   [CVAgent] Skipped "${offer.title}" — master CV not found at "${masterCVPath}". ` +
-          `Set MASTER_CV_PATH or create the file to enable CV generation.`
-      );
-    }
-  }
-
-  console.log("\n=== Pipeline complete ===");
+async function main() {
+  // Your agent is ready!
+  //
+  // Next steps:
+  // 1. Create your first skill with tools
+  // 2. Run `lua test` to test tools interactively
+  // 3. Run `lua chat` to chat with your agent
+  // 4. Run `lua push` to deploy
 }
 
-// ---------------------------------------------------------------------------
-// Run
-// ---------------------------------------------------------------------------
-
-runPipeline().catch((err) => {
-  console.error("Pipeline error:", err);
-  process.exit(1);
-});
+main().catch(console.error);

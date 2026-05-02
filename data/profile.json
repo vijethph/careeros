@@ -1,0 +1,420 @@
+{
+  "id": "c6e2663a-c215-4119-84fc-5b69cb7f575f",
+  "name": "FIRST LAST",
+  "email": "sampleresume@gmail.com",
+  "location": "",
+  "targetRoles": [],
+  "targetLevels": [],
+  "targetLocations": [],
+  "keywords": [],
+  "narrative": "",
+  "proofPoints": [],
+  "cvMarkdownPath": "data/sample-cv.pdf",
+  "parsedCv": {
+    "basics": {
+      "fullName": "FIRST LAST",
+      "email": "sampleresume@gmail.com",
+      "headline": "SUMMARY"
+    },
+    "skillsRaw": [
+      "JavaScript:       ReactJS",
+      "AngularJS 1.x",
+      "ExpressJS",
+      "NodeJS",
+      "jQuery",
+      "HTML",
+      "CSS",
+      "Mobile:           React Native",
+      "ExponentJS",
+      "Java:             Spring",
+      "Maven",
+      "Databases:        MongoDB",
+      "SQL",
+      "Build",
+      "Deploy:     Docker",
+      "Tomcat",
+      "Grunt",
+      "Heroku",
+      "CircleCI"
+    ],
+    "experience": [
+      {
+        "id": "56723cf0-4db0-4a1b-842a-df826c2e8517",
+        "company": "automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven",
+        "title": "automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "470b2bf9-7ca9-4dd0-b3b6-f00ec45f41a9",
+        "company": "aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve",
+        "title": "aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "2c822cee-10d0-488f-9c14-dfbbbdce18b4",
+        "company": "customer satisfaction, and achieve financial savings.",
+        "title": "customer satisfaction, and achieve financial savings.",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "54b6b84c-4a4b-497d-9c20-1e6432e377df",
+        "company": "WALMART, INC., Bentonville, Arkansas",
+        "title": "WALMART, INC., Bentonville, Arkansas",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "e35c01df-8305-4c18-8063-94265d0a12eb",
+        "company": "Programmer Analyst, Call Center Engineering Team, 2011‐2016",
+        "title": "Programmer Analyst, Call Center Engineering Team, 2011‐2016",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "42c59b4d-8d8a-4454-87e3-3deba2536ec3",
+        "company": "    Architected financial services hotline app for 8 countries in Central and South America.",
+        "title": "    Architected financial services hotline app for 8 countries in Central and South America.",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "38233650-00a3-4bf8-962a-8d1e70c4e7e4",
+        "company": "    Implemented benefits hotline app rollout every year for US and Canada serving 1.4 million employees.",
+        "title": "    Implemented benefits hotline app rollout every year for US and Canada serving 1.4 million employees.",
+        "bulletPoints": [],
+        "technologies": []
+      },
+      {
+        "id": "58a0df4b-17bf-4ba8-870f-1fbb710291f1",
+        "company": "    Optimized manual application tuning process with Java to fetch and process data, making process 20x faster.",
+        "title": "    Optimized manual application tuning process with Java to fetch and process data, making process 20x faster.",
+        "bulletPoints": [],
+        "technologies": [
+          "java"
+        ]
+      },
+      {
+        "id": "69eba1ac-81a1-401f-aa88-ef77791748fe",
+        "company": "    Connected user‐facing web applications with SQL DBs using Spring REST web services.",
+        "title": "    Connected user‐facing web applications with SQL DBs using Spring REST web services.",
+        "bulletPoints": [],
+        "technologies": [
+          "sql",
+          "spring",
+          "rest"
+        ]
+      },
+      {
+        "id": "5398ad96-a961-4759-bb3a-abc603707c4b",
+        "company": "    Integrated agent monitoring system, improving call center efficiency by 30%. [Employee of the Month ‐ Dec 2012]",
+        "title": "    Integrated agent monitoring system, improving call center efficiency by 30%. [Employee of the Month ‐ Dec 2012]",
+        "bulletPoints": [],
+        "technologies": []
+      }
+    ],
+    "education": [
+      {
+        "id": "e125ea8f-b927-40f0-8321-8c73bfece38f",
+        "institution": "UNIVERSITY OF ARIZONA, Tucson, Arizona"
+      },
+      {
+        "id": "ce6b8f67-f33e-481b-8619-c1bbffbb10d5",
+        "institution": "M.S., Computer Science, 2012"
+      },
+      {
+        "id": "13b5444e-6a7b-4cd1-8898-b9ff4e65eb23",
+        "institution": "B.S.B.A., Management Information Systems, 2011"
+      },
+      {
+        "id": "fee050e5-5a52-41ce-a15c-3bf9c236a583",
+        "institution": " Built front‐end using ReactJS and uses states to control permissions."
+      },
+      {
+        "id": "f912a4f1-c95e-445d-83b9-526d28f9bc4e",
+        "institution": "TagMe ● Front‐End Engineer / DevOps ● Code ● App"
+      },
+      {
+        "id": "a8e0e8d9-c2ae-4f82-aec2-505e16784698",
+        "institution": "Photo diary and photo organizer that uses photo‐recognition APIs to tag and caption photos."
+      },
+      {
+        "id": "4f0390e9-15bf-473a-9eae-3a38297bab19",
+        "institution": " Expanded and refined functionality of React Native codebase."
+      },
+      {
+        "id": "21a925dc-4f21-4102-b587-4484afce7dfa",
+        "institution": " Implemented search, geo‐tags, and content sort using ExponentJS to improve UX."
+      },
+      {
+        "id": "4465f462-3901-4d56-9d20-a5b64eb3bca7",
+        "institution": " Configured continuous integration using CircleCI and Heroku to streamline build, test, and deployment."
+      },
+      {
+        "id": "db159e85-a2b0-4fed-83ec-c324805bd975",
+        "institution": " Rapidly prototyped and deployed mobile app using Exponent XDE."
+      },
+      {
+        "id": "438006ae-7d7d-4c75-8764-2ae6d8f5fead",
+        "institution": "Roadtrip Mood Music Generator ● Software Engineer ● Code"
+      },
+      {
+        "id": "a32a7c91-db11-452f-8f40-30ce6ee96b42",
+        "institution": "Spotify playlist generator based on time of day and weather forecast of any given roadtrip route."
+      },
+      {
+        "id": "ffb56238-5430-43ec-b838-ad5b13b02653",
+        "institution": " Integrated OAuth authentication with Spotify using PassportJS."
+      },
+      {
+        "id": "ee5e8d47-f9a4-4cbf-bada-a1d225229658",
+        "institution": " Generated Spotify playlists tailored to user’s roadtrip route using Google Maps and Accuweather forecast."
+      }
+    ],
+    "projects": [
+      {
+        "id": "846cbbf9-f1b0-4dca-a643-c9e9a5bd8eab",
+        "name": "PicoShell ● Software Engineer ● Code ● App"
+      },
+      {
+        "id": "f86bc399-b4a2-416a-aa66-7a45f028e5cf",
+        "name": "Collaborative coding platform with a linux terminal, code editor, file browser, chat window, and video collection."
+      },
+      {
+        "id": "d8792b6b-b36d-4245-969a-af211f21d1e5",
+        "name": " Connected users using Socket.io to chat and see immediate changes to collaborators’ code editor and terminal."
+      },
+      {
+        "id": "5a6a1c81-0502-4b79-8dee-400be075c810",
+        "name": " Used Docker to emulate a UNIX environment in browser with drag and drop file upload and file download."
+      },
+      {
+        "id": "cd2c99b6-fe9f-40e6-8f62-0a66618098e6",
+        "name": " Created an API for Docker container control and NodeJS / ExpressJS server with a MySQL DB for user data."
+      }
+    ],
+    "lastParsedAt": "2026-05-02T13:12:53.406Z",
+    "sourcePath": "data/sample-cv.pdf"
+  },
+  "skills": [
+    {
+      "id": "javascript-reactjs",
+      "name": "Javascript Reactjs",
+      "normalizedName": "javascript reactjs",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "angularjs-1x",
+      "name": "Angularjs 1.x",
+      "normalizedName": "angularjs 1.x",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "expressjs",
+      "name": "Expressjs",
+      "normalizedName": "expressjs",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "nodejs",
+      "name": "Nodejs",
+      "normalizedName": "nodejs",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "jquery",
+      "name": "Jquery",
+      "normalizedName": "jquery",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "html",
+      "name": "Html",
+      "normalizedName": "html",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "css",
+      "name": "Css",
+      "normalizedName": "css",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "mobile-react-native",
+      "name": "Mobile React Native",
+      "normalizedName": "mobile react native",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "exponentjs",
+      "name": "Exponentjs",
+      "normalizedName": "exponentjs",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "java-spring",
+      "name": "Java Spring",
+      "normalizedName": "java spring",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "maven",
+      "name": "Maven",
+      "normalizedName": "maven",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "databases-mongodb",
+      "name": "Databases Mongodb",
+      "normalizedName": "databases mongodb",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "sql",
+      "name": "Sql",
+      "normalizedName": "sql",
+      "type": "language",
+      "source": "cv"
+    },
+    {
+      "id": "build",
+      "name": "Build",
+      "normalizedName": "build",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "deploy-docker",
+      "name": "Deploy Docker",
+      "normalizedName": "deploy docker",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "tomcat",
+      "name": "Tomcat",
+      "normalizedName": "tomcat",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "grunt",
+      "name": "Grunt",
+      "normalizedName": "grunt",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "heroku",
+      "name": "Heroku",
+      "normalizedName": "heroku",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "circleci",
+      "name": "Circleci",
+      "normalizedName": "circleci",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "normalizedName": "java",
+      "type": "language",
+      "source": "cv"
+    },
+    {
+      "id": "spring",
+      "name": "Spring",
+      "normalizedName": "spring",
+      "type": "framework",
+      "source": "cv"
+    },
+    {
+      "id": "rest",
+      "name": "Rest",
+      "normalizedName": "rest",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "javascript",
+      "name": "Javascript",
+      "normalizedName": "javascript",
+      "type": "language",
+      "source": "cv"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "normalizedName": "react",
+      "type": "framework",
+      "source": "cv"
+    },
+    {
+      "id": "angular",
+      "name": "Angular",
+      "normalizedName": "angular",
+      "type": "framework",
+      "source": "cv"
+    },
+    {
+      "id": "express",
+      "name": "Express",
+      "normalizedName": "express",
+      "type": "framework",
+      "source": "cv"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "normalizedName": "docker",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "mysql",
+      "name": "Mysql",
+      "normalizedName": "mysql",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "mongodb",
+      "name": "Mongodb",
+      "normalizedName": "mongodb",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "linux",
+      "name": "Linux",
+      "normalizedName": "linux",
+      "type": "tool",
+      "source": "cv"
+    },
+    {
+      "id": "devops",
+      "name": "Devops",
+      "normalizedName": "devops",
+      "type": "domain",
+      "source": "cv"
+    }
+  ]
+}

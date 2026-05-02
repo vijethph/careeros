@@ -1,0 +1,219 @@
+[
+  {
+    "id": "javascript-reactjs",
+    "name": "Javascript Reactjs",
+    "normalizedName": "javascript reactjs",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "angularjs-1x",
+    "name": "Angularjs 1.x",
+    "normalizedName": "angularjs 1.x",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "expressjs",
+    "name": "Expressjs",
+    "normalizedName": "expressjs",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "nodejs",
+    "name": "Nodejs",
+    "normalizedName": "nodejs",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "jquery",
+    "name": "Jquery",
+    "normalizedName": "jquery",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "html",
+    "name": "Html",
+    "normalizedName": "html",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "css",
+    "name": "Css",
+    "normalizedName": "css",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "mobile-react-native",
+    "name": "Mobile React Native",
+    "normalizedName": "mobile react native",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "exponentjs",
+    "name": "Exponentjs",
+    "normalizedName": "exponentjs",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "java-spring",
+    "name": "Java Spring",
+    "normalizedName": "java spring",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "maven",
+    "name": "Maven",
+    "normalizedName": "maven",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "databases-mongodb",
+    "name": "Databases Mongodb",
+    "normalizedName": "databases mongodb",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "sql",
+    "name": "Sql",
+    "normalizedName": "sql",
+    "type": "language",
+    "source": "cv"
+  },
+  {
+    "id": "build",
+    "name": "Build",
+    "normalizedName": "build",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "deploy-docker",
+    "name": "Deploy Docker",
+    "normalizedName": "deploy docker",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "tomcat",
+    "name": "Tomcat",
+    "normalizedName": "tomcat",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "grunt",
+    "name": "Grunt",
+    "normalizedName": "grunt",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "heroku",
+    "name": "Heroku",
+    "normalizedName": "heroku",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "circleci",
+    "name": "Circleci",
+    "normalizedName": "circleci",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "normalizedName": "java",
+    "type": "language",
+    "source": "cv"
+  },
+  {
+    "id": "spring",
+    "name": "Spring",
+    "normalizedName": "spring",
+    "type": "framework",
+    "source": "cv"
+  },
+  {
+    "id": "rest",
+    "name": "Rest",
+    "normalizedName": "rest",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "javascript",
+    "name": "Javascript",
+    "normalizedName": "javascript",
+    "type": "language",
+    "source": "cv"
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "normalizedName": "react",
+    "type": "framework",
+    "source": "cv"
+  },
+  {
+    "id": "angular",
+    "name": "Angular",
+    "normalizedName": "angular",
+    "type": "framework",
+    "source": "cv"
+  },
+  {
+    "id": "express",
+    "name": "Express",
+    "normalizedName": "express",
+    "type": "framework",
+    "source": "cv"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "normalizedName": "docker",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "mysql",
+    "name": "Mysql",
+    "normalizedName": "mysql",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "mongodb",
+    "name": "Mongodb",
+    "normalizedName": "mongodb",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "linux",
+    "name": "Linux",
+    "normalizedName": "linux",
+    "type": "tool",
+    "source": "cv"
+  },
+  {
+    "id": "devops",
+    "name": "Devops",
+    "normalizedName": "devops",
+    "type": "domain",
+    "source": "cv"
+  }
+]

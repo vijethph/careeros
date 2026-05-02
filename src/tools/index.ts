@@ -3,3 +3,8 @@ export { AshbyTool } from "./AshbyTool";
 export { LeverTool } from "./LeverTool";
 export { DeduplicateTool } from "./DeduplicateTool";
 export { matchesFilter } from "./filterUtils";
+export { ParseCvTool } from "./ParseCvTool";
+export { ExtractSkillsTool } from "./ExtractSkillsTool";
+export { SyncProfileFromCvTool } from "./SyncProfileFromCvTool";
+export { GetProfileFeaturesTool } from "./GetProfileFeaturesTool";
+export { UpdateProfileTool } from "./UpdateProfileTool";
