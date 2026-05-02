@@ -10,7 +10,6 @@
     "start": "tsx src/index.ts",
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
-    "cv:parse": "tsx src/scripts/testCvIngestion.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
