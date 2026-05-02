@@ -1,0 +1,12 @@
+agent:
+  agentId: baseAgent_agent_1777725436505_q5ppbf9nu
+  orgId: 5a533a08-8f1e-4d7d-899a-29c66f2dccf0
+skills:
+  - name: cv_generation
+    skillId: 68a83071-ecbf-4137-b4ee-2f09b2121fa4
+    version: 1.0.2
+webhooks: []
+jobs: []
+preprocessors: []
+postprocessors: []
+mcpServers: []
