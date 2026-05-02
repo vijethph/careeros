@@ -1,0 +1,574 @@
+{
+  "jobs": [
+    {
+      "id": "job_001",
+      "title": "Senior Software Engineer, Platform",
+      "company": "Stripe",
+      "location": "San Francisco, CA",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-10T08:00:00Z",
+      "url": "https://stripe.com/jobs/listing/senior-software-engineer-platform/5678901",
+      "source": "greenhouse",
+      "sourceId": "stripe_5678901",
+      "description": "Stripe is looking for a Senior Software Engineer to join our Platform team. You'll work on building and scaling the infrastructure that powers millions of businesses worldwide. We're seeking engineers who are passionate about distributed systems, API design, and building developer-friendly tools.\n\nResponsibilities:\n- Design and build scalable APIs and services that handle billions of requests per day\n- Collaborate with product and design teams to define and ship new features\n- Improve system reliability, performance, and observability\n- Mentor junior engineers and contribute to engineering culture\n- Participate in on-call rotation to ensure system reliability\n\nQualifications:\n- 5+ years of software engineering experience\n- Strong proficiency in at least one backend language (Ruby, Python, Go, Java)\n- Experience building and scaling distributed systems\n- Deep understanding of API design and RESTful services\n- Experience with cloud platforms (AWS, GCP, or Azure)\n- Strong communication and collaboration skills\n\nNice to have:\n- Experience with payment systems or fintech\n- Knowledge of Kubernetes and containerization\n- Open source contributions\n- Experience with high-traffic production systems",
+      "requirements": {
+        "experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science or equivalent",
+        "skills": [
+          "Ruby",
+          "Python",
+          "Go",
+          "Distributed Systems",
+          "API Design",
+          "AWS",
+          "Kubernetes",
+          "PostgreSQL"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 180000,
+        "salaryMax": 250000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": true
+      },
+      "benefits": [
+        "Health, dental, and vision insurance",
+        "401(k) with company match",
+        "Unlimited PTO",
+        "Parental leave",
+        "Home office stipend",
+        "Learning and development budget"
+      ],
+      "team": {
+        "size": 12,
+        "structure": "Cross-functional teams with product, design, and engineering"
+      },
+      "tags": ["backend", "distributed-systems", "fintech", "api", "infrastructure"]
+    },
+    {
+      "id": "job_002",
+      "title": "Staff Software Engineer, Frontend",
+      "company": "Vercel",
+      "location": "Remote (US)",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-12T10:30:00Z",
+      "url": "https://vercel.com/careers/staff-software-engineer-frontend",
+      "source": "greenhouse",
+      "sourceId": "vercel_frontend_staff",
+      "description": "Vercel is seeking a Staff Software Engineer to lead frontend initiatives and help shape the future of web development. You'll work on Next.js, our deployment platform, and developer tools used by millions of developers worldwide.\n\nWhat you'll do:\n- Lead technical design and implementation of major frontend features\n- Drive architectural decisions for our web applications\n- Collaborate with open source community on Next.js\n- Mentor engineers and establish frontend best practices\n- Work closely with product and design to deliver exceptional user experiences\n- Optimize performance and developer experience\n\nWhat we're looking for:\n- 8+ years of frontend engineering experience\n- Expert knowledge of React, TypeScript, and modern web technologies\n- Experience leading large-scale frontend projects\n- Strong understanding of web performance, accessibility, and SEO\n- Track record of technical leadership and mentorship\n- Excellent communication skills\n\nBonus points:\n- Contributions to Next.js or other major open source projects\n- Experience with edge computing and serverless\n- Knowledge of build tools and bundlers (Webpack, Turbopack, Vite)\n- Experience with design systems",
+      "requirements": {
+        "experience": "8+ years",
+        "education": "Bachelor's degree or equivalent experience",
+        "skills": [
+          "React",
+          "Next.js",
+          "TypeScript",
+          "JavaScript",
+          "Web Performance",
+          "Accessibility",
+          "CSS",
+          "Node.js"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 200000,
+        "salaryMax": 280000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": false
+      },
+      "benefits": [
+        "Comprehensive health coverage",
+        "Flexible PTO",
+        "Remote work stipend",
+        "Latest tech equipment",
+        "Conference and education budget",
+        "Stock options"
+      ],
+      "team": {
+        "size": 8,
+        "structure": "Small, autonomous teams focused on specific product areas"
+      },
+      "tags": ["frontend", "react", "nextjs", "typescript", "staff", "remote"]
+    },
+    {
+      "id": "job_003",
+      "title": "Senior Backend Engineer",
+      "company": "Notion",
+      "location": "San Francisco, CA / New York, NY",
+      "remote": false,
+      "type": "Full-time",
+      "postedAt": "2024-01-08T14:00:00Z",
+      "url": "https://notion.so/careers/senior-backend-engineer",
+      "source": "greenhouse",
+      "sourceId": "notion_backend_senior",
+      "description": "Notion is looking for a Senior Backend Engineer to help us build the future of productivity software. You'll work on the core infrastructure that powers Notion's collaborative workspace used by millions of users worldwide.\n\nYour impact:\n- Build and scale backend services that handle real-time collaboration\n- Design and implement new APIs and data models\n- Optimize database queries and improve system performance\n- Work on infrastructure that supports 100M+ API requests per day\n- Collaborate with frontend engineers to deliver seamless user experiences\n\nWhat you bring:\n- 5+ years of backend engineering experience\n- Strong proficiency in Go, Python, or similar languages\n- Experience with PostgreSQL or other relational databases\n- Understanding of distributed systems and microservices\n- Experience with real-time systems and WebSockets\n- Passion for building products that users love\n\nPreferred qualifications:\n- Experience with operational transform or CRDTs\n- Knowledge of AWS services (EC2, S3, RDS, Lambda)\n- Experience with Redis and caching strategies\n- Background in building collaborative software",
+      "requirements": {
+        "experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science or related field",
+        "skills": [
+          "Go",
+          "Python",
+          "PostgreSQL",
+          "Redis",
+          "AWS",
+          "Microservices",
+          "WebSockets",
+          "Real-time Systems"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 170000,
+        "salaryMax": 230000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": true
+      },
+      "benefits": [
+        "Medical, dental, and vision insurance",
+        "401(k) plan",
+        "Commuter benefits",
+        "Catered meals",
+        "Gym membership",
+        "Generous PTO"
+      ],
+      "team": {
+        "size": 15,
+        "structure": "Product-focused teams with full-stack engineers"
+      },
+      "tags": ["backend", "real-time", "collaboration", "go", "postgresql", "hybrid"]
+    },
+    {
+      "id": "job_004",
+      "title": "Full Stack Engineer",
+      "company": "Linear",
+      "location": "Remote (Global)",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-14T09:00:00Z",
+      "url": "https://linear.app/careers/full-stack-engineer",
+      "source": "greenhouse",
+      "sourceId": "linear_fullstack_001",
+      "description": "Linear is building the issue tracking tool that developers love. We're looking for a Full Stack Engineer who cares deeply about craft, performance, and user experience.\n\nWhat you'll work on:\n- Build new features across the entire stack (React, TypeScript, Node.js, PostgreSQL)\n- Improve application performance and user experience\n- Design and implement APIs and database schemas\n- Work on real-time collaboration features\n- Contribute to our design system and component library\n\nWho you are:\n- 4+ years of full-stack development experience\n- Strong skills in TypeScript, React, and Node.js\n- Experience with GraphQL and modern API design\n- Care deeply about UI/UX and attention to detail\n- Self-directed and comfortable with autonomy\n- Excellent written communication\n\nWhat sets you apart:\n- Experience building developer tools\n- Knowledge of real-time systems and WebSockets\n- Contributions to open source projects\n- Strong design sensibility\n- Experience with PostgreSQL optimization",
+      "requirements": {
+        "experience": "4+ years",
+        "education": "Not required",
+        "skills": [
+          "TypeScript",
+          "React",
+          "Node.js",
+          "GraphQL",
+          "PostgreSQL",
+          "WebSockets",
+          "CSS"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 160000,
+        "salaryMax": 210000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": false
+      },
+      "benefits": [
+        "Health insurance (US employees)",
+        "Flexible vacation",
+        "Home office setup",
+        "Co-working space stipend",
+        "Latest MacBook Pro",
+        "Annual company retreat"
+      ],
+      "team": {
+        "size": 6,
+        "structure": "Small, highly autonomous team"
+      },
+      "tags": ["fullstack", "typescript", "react", "graphql", "remote", "developer-tools"]
+    },
+    {
+      "id": "job_005",
+      "title": "Senior Software Engineer, Infrastructure",
+      "company": "Figma",
+      "location": "San Francisco, CA / New York, NY",
+      "remote": false,
+      "type": "Full-time",
+      "postedAt": "2024-01-11T11:00:00Z",
+      "url": "https://figma.com/careers/senior-software-engineer-infrastructure",
+      "source": "greenhouse",
+      "sourceId": "figma_infra_senior",
+      "description": "Figma is looking for a Senior Software Engineer to join our Infrastructure team. You'll work on the systems that power Figma's real-time collaborative design platform used by millions of designers and developers.\n\nResponsibilities:\n- Build and maintain infrastructure for real-time collaboration at scale\n- Improve system reliability, performance, and observability\n- Design and implement tools for deployment and monitoring\n- Work on WebAssembly and browser performance optimization\n- Collaborate with product teams to support new features\n\nQualifications:\n- 5+ years of infrastructure or backend engineering experience\n- Strong programming skills in C++, Rust, Go, or similar\n- Experience with distributed systems and databases\n- Knowledge of networking, protocols, and system design\n- Experience with cloud infrastructure (AWS, GCP)\n\nNice to have:\n- Experience with WebAssembly or browser technologies\n- Knowledge of real-time systems and operational transform\n- Experience with Kubernetes and container orchestration\n- Background in graphics or rendering systems",
+      "requirements": {
+        "experience": "5+ years",
+        "education": "Bachelor's or Master's in Computer Science",
+        "skills": [
+          "C++",
+          "Rust",
+          "Go",
+          "Distributed Systems",
+          "AWS",
+          "Kubernetes",
+          "WebAssembly",
+          "PostgreSQL"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 185000,
+        "salaryMax": 245000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": true
+      },
+      "benefits": [
+        "Comprehensive health benefits",
+        "401(k) with match",
+        "Flexible PTO",
+        "Parental leave",
+        "Commuter benefits",
+        "Professional development budget"
+      ],
+      "team": {
+        "size": 10,
+        "structure": "Infrastructure team supporting all product teams"
+      },
+      "tags": ["infrastructure", "distributed-systems", "rust", "webassembly", "real-time"]
+    },
+    {
+      "id": "job_006",
+      "title": "Software Engineer, Full Stack",
+      "company": "Retool",
+      "location": "San Francisco, CA",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-13T10:00:00Z",
+      "url": "https://retool.com/careers/software-engineer-full-stack",
+      "source": "greenhouse",
+      "sourceId": "retool_fullstack_002",
+      "description": "Retool is hiring Full Stack Engineers to help us build the fastest way to build internal tools. You'll work on features that help thousands of companies build custom applications without writing code.\n\nWhat you'll do:\n- Build new components and features for the Retool platform\n- Work on both frontend (React) and backend (Node.js) systems\n- Improve performance and scalability of the application\n- Design APIs and data models for new features\n- Collaborate with customers to understand their needs\n\nWhat we're looking for:\n- 3+ years of full-stack engineering experience\n- Proficiency in JavaScript/TypeScript and React\n- Experience with Node.js and backend development\n- Strong problem-solving and debugging skills\n- Customer-focused mindset\n- Ability to ship features quickly\n\nBonus:\n- Experience building developer tools or low-code platforms\n- Knowledge of database systems (PostgreSQL, MongoDB)\n- Experience with GraphQL\n- Background in enterprise software",
+      "requirements": {
+        "experience": "3+ years",
+        "education": "Bachelor's degree or equivalent",
+        "skills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "REST APIs",
+          "Git"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 150000,
+        "salaryMax": 200000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": false
+      },
+      "benefits": [
+        "Medical, dental, vision insurance",
+        "Unlimited PTO",
+        "401(k) plan",
+        "Home office budget",
+        "Learning stipend",
+        "Team offsites"
+      ],
+      "team": {
+        "size": 8,
+        "structure": "Product teams organized by customer segment"
+      },
+      "tags": ["fullstack", "react", "nodejs", "low-code", "developer-tools", "remote"]
+    },
+    {
+      "id": "job_007",
+      "title": "Senior Backend Engineer, Payments",
+      "company": "Coinbase",
+      "location": "San Francisco, CA / Remote",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-09T13:00:00Z",
+      "url": "https://coinbase.com/careers/senior-backend-engineer-payments",
+      "source": "lever",
+      "sourceId": "coinbase_payments_senior",
+      "description": "Coinbase is looking for a Senior Backend Engineer to join our Payments team. You'll build the infrastructure that enables millions of users to buy, sell, and transfer cryptocurrency safely and efficiently.\n\nYour responsibilities:\n- Design and build scalable payment processing systems\n- Implement fraud detection and risk management features\n- Work with banking partners and payment processors\n- Ensure compliance with financial regulations\n- Optimize transaction processing speed and reliability\n- Build monitoring and alerting systems\n\nWhat you need:\n- 5+ years of backend engineering experience\n- Strong skills in Go, Java, or Python\n- Experience with payment systems or fintech\n- Knowledge of distributed systems and databases\n- Understanding of security best practices\n- Experience with high-availability systems\n\nPreferred:\n- Experience with cryptocurrency or blockchain\n- Knowledge of financial regulations (KYC, AML)\n- Experience with Kafka or message queues\n- Background in fraud detection or risk management",
+      "requirements": {
+        "experience": "5+ years",
+        "education": "Bachelor's degree in Computer Science",
+        "skills": [
+          "Go",
+          "Java",
+          "Python",
+          "PostgreSQL",
+          "Kafka",
+          "Redis",
+          "AWS",
+          "Microservices"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 175000,
+        "salaryMax": 240000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": true
+      },
+      "benefits": [
+        "Comprehensive health coverage",
+        "401(k) with 4% match",
+        "Flexible PTO",
+        "Parental leave",
+        "Crypto learning resources",
+        "Commuter benefits"
+      ],
+      "team": {
+        "size": 12,
+        "structure": "Cross-functional payments team"
+      },
+      "tags": ["backend", "payments", "fintech", "crypto", "go", "distributed-systems"]
+    },
+    {
+      "id": "job_008",
+      "title": "Staff Software Engineer, Platform",
+      "company": "Airbnb",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "type": "Full-time",
+      "postedAt": "2024-01-07T09:30:00Z",
+      "url": "https://airbnb.com/careers/staff-software-engineer-platform",
+      "source": "greenhouse",
+      "sourceId": "airbnb_platform_staff",
+      "description": "Airbnb is seeking a Staff Software Engineer to lead platform initiatives that power our global marketplace. You'll work on foundational systems that enable hundreds of engineers to build and ship features quickly and reliably.\n\nWhat you'll do:\n- Lead design and implementation of platform services and tools\n- Define technical strategy and architecture for platform systems\n- Build developer tools and infrastructure that improve productivity\n- Mentor engineers and drive engineering excellence\n- Collaborate with leadership on technical roadmap\n- Establish best practices and standards\n\nWhat you bring:\n- 10+ years of software engineering experience\n- Deep expertise in distributed systems and architecture\n- Strong programming skills in Java, Ruby, or Go\n- Track record of leading large-scale technical projects\n- Excellent communication and leadership skills\n- Experience building developer platforms or tools\n\nPreferred:\n- Experience with service mesh and microservices\n- Knowledge of Kubernetes and cloud infrastructure\n- Background in high-scale consumer applications\n- Open source contributions or technical writing",
+      "requirements": {
+        "experience": "10+ years",
+        "education": "Bachelor's or Master's in Computer Science",
+        "skills": [
+          "Java",
+          "Ruby",
+          "Go",
+          "Distributed Systems",
+          "Kubernetes",
+          "AWS",
+          "Microservices",
+          "System Design"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 220000,
+        "salaryMax": 300000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": true
+      },
+      "benefits": [
+        "Comprehensive health benefits",
+        "401(k) with match",
+        "Generous PTO",
+        "Parental leave",
+        "Airbnb travel credits",
+        "Professional development"
+      ],
+      "team": {
+        "size": 15,
+        "structure": "Platform organization supporting all product teams"
+      },
+      "tags": ["staff", "platform", "distributed-systems", "java", "kubernetes", "architecture"]
+    },
+    {
+      "id": "job_009",
+      "title": "Senior Full Stack Engineer",
+      "company": "Shopify",
+      "location": "Toronto, Canada / Remote",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-15T08:00:00Z",
+      "url": "https://shopify.com/careers/senior-full-stack-engineer",
+      "source": "greenhouse",
+      "sourceId": "shopify_fullstack_senior",
+      "description": "Shopify is looking for a Senior Full Stack Engineer to help merchants build their businesses. You'll work on features that impact millions of entrepreneurs worldwide.\n\nYour role:\n- Build and ship features across the full stack (Ruby on Rails, React)\n- Work on merchant-facing tools and admin interfaces\n- Improve performance and scalability of the platform\n- Collaborate with product managers and designers\n- Mentor junior engineers and contribute to code quality\n- Participate in on-call rotation\n\nWhat we need:\n- 5+ years of full-stack development experience\n- Strong skills in Ruby on Rails and React\n- Experience with PostgreSQL and Redis\n- Understanding of e-commerce or payments\n- Passion for merchant success\n- Strong communication skills\n\nNice to have:\n- Experience with GraphQL\n- Knowledge of Kubernetes and Docker\n- Background in building admin tools\n- Experience with high-traffic applications",
+      "requirements": {
+        "experience": "5+ years",
+        "education": "Bachelor's degree or equivalent",
+        "skills": [
+          "Ruby on Rails",
+          "React",
+          "JavaScript",
+          "PostgreSQL",
+          "Redis",
+          "GraphQL",
+          "Docker"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 140000,
+        "salaryMax": 190000,
+        "currency": "CAD",
+        "equity": true,
+        "bonus": false
+      },
+      "benefits": [
+        "Health and dental coverage",
+        "RRSP matching",
+        "Flexible vacation",
+        "Parental leave top-up",
+        "Learning budget",
+        "Home office stipend"
+      ],
+      "team": {
+        "size": 10,
+        "structure": "Product-focused teams with designers and PMs"
+      },
+      "tags": ["fullstack", "ruby-on-rails", "react", "ecommerce", "remote", "canada"]
+    },
+    {
+      "id": "job_010",
+      "title": "Software Engineer II, Backend",
+      "company": "Netflix",
+      "location": "Los Gatos, CA",
+      "remote": false,
+      "type": "Full-time",
+      "postedAt": "2024-01-06T10:00:00Z",
+      "url": "https://netflix.com/careers/software-engineer-backend",
+      "source": "lever",
+      "sourceId": "netflix_backend_002",
+      "description": "Netflix is hiring a Software Engineer II to work on backend services that power the world's leading streaming platform. You'll build systems that serve 200M+ members globally.\n\nWhat you'll work on:\n- Design and implement microservices for content delivery\n- Build APIs used by Netflix applications across all devices\n- Optimize system performance and reliability\n- Work on personalization and recommendation systems\n- Collaborate with data scientists and ML engineers\n- Participate in architecture reviews and technical discussions\n\nWhat you should have:\n- 3+ years of backend engineering experience\n- Strong skills in Java, Scala, or Python\n- Experience with microservices and distributed systems\n- Knowledge of AWS and cloud infrastructure\n- Understanding of databases (Cassandra, MySQL)\n- Passion for streaming media and entertainment\n\nBonus:\n- Experience with machine learning systems\n- Knowledge of video encoding and streaming protocols\n- Experience with high-scale systems (millions of QPS)\n- Contributions to open source projects",
+      "requirements": {
+        "experience": "3+ years",
+        "education": "Bachelor's degree in Computer Science",
+        "skills": [
+          "Java",
+          "Scala",
+          "Python",
+          "Microservices",
+          "AWS",
+          "Cassandra",
+          "MySQL",
+          "Kafka"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 170000,
+        "salaryMax": 220000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": false
+      },
+      "benefits": [
+        "Comprehensive health coverage",
+        "Unlimited vacation",
+        "Parental leave",
+        "401(k) with match",
+        "Free Netflix subscription",
+        "On-site amenities"
+      ],
+      "team": {
+        "size": 8,
+        "structure": "Small, autonomous teams focused on specific domains"
+      },
+      "tags": ["backend", "java", "microservices", "streaming", "aws", "high-scale"]
+    },
+    {
+      "id": "job_011",
+      "title": "Frontend Engineer, Design Systems",
+      "company": "GitHub",
+      "location": "Remote (US)",
+      "remote": true,
+      "type": "Full-time",
+      "postedAt": "2024-01-14T12:00:00Z",
+      "url": "https://github.com/careers/frontend-engineer-design-systems",
+      "source": "greenhouse",
+      "sourceId": "github_frontend_design",
+      "description": "GitHub is looking for a Frontend Engineer to join our Design Systems team. You'll work on Primer, GitHub's design system used across all of our products.\n\nYour responsibilities:\n- Build and maintain React components for Primer\n- Improve accessibility and performance of components\n- Create documentation and examples for developers\n- Collaborate with designers on component APIs\n- Support internal teams adopting the design system\n- Contribute to open source design system tools\n\nWhat we're looking for:\n- 4+ years of frontend engineering experience\n- Expert knowledge of React, TypeScript, and CSS\n- Strong understanding of accessibility (WCAG, ARIA)\n- Experience building component libraries or design systems\n- Excellent documentation and communication skills\n- Passion for developer experience\n\nPreferred:\n- Experience with Storybook or similar tools\n- Knowledge of design tokens and theming\n- Contributions to open source projects\n- Background in design or UX",
+      "requirements": {
+        "experience": "4+ years",
+        "education": "Bachelor's degree or equivalent",
+        "skills": [
+          "React",
+          "TypeScript",
+          "CSS",
+          "Accessibility",
+          "Design Systems",
+          "Storybook",
+          "Git"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 155000,
+        "salaryMax": 205000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": false
+      },
+      "benefits": [
+        "Health, dental, vision insurance",
+        "Flexible PTO",
+        "401(k) with match",
+        "Home office setup",
+        "Learning and development budget",
+        "GitHub Enterprise license"
+      ],
+      "team": {
+        "size": 6,
+        "structure": "Design systems team supporting all product teams"
+      },
+      "tags": ["frontend", "react", "design-systems", "accessibility", "typescript", "remote"]
+    },
+    {
+      "id": "job_012",
+      "title": "Senior Software Engineer, Machine Learning Platform",
+      "company": "OpenAI",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "type": "Full-time",
+      "postedAt": "2024-01-12T14:30:00Z",
+      "url": "https://openai.com/careers/senior-software-engineer-ml-platform",
+      "source": "greenhouse",
+      "sourceId": "openai_ml_platform",
+      "description": "OpenAI is seeking a Senior Software Engineer to build the infrastructure that trains and serves our AI models. You'll work on systems that power ChatGPT and other groundbreaking AI products.\n\nWhat you'll do:\n- Build and scale ML training infrastructure\n- Develop tools for model deployment and serving\n- Optimize GPU utilization and training performance\n- Work on distributed systems for large-scale ML\n- Collaborate with researchers and ML engineers\n- Improve observability and monitoring of ML systems\n\nWhat you need:\n- 5+ years of software engineering experience\n- Strong programming skills in Python and C++\n- Experience with ML frameworks (PyTorch, TensorFlow)\n- Knowledge of distributed systems and cloud infrastructure\n- Understanding of GPU computing and optimization\n- Passion for AI and machine learning\n\nPreferred:\n- Experience with Kubernetes and container orchestration\n- Knowledge of ML model serving and inference\n- Background in high-performance computing\n- Experience with large-scale data processing",
+      "requirements": {
+        "experience": "5+ years",
+        "education": "Bachelor's or Master's in Computer Science",
+        "skills": [
+          "Python",
+          "C++",
+          "PyTorch",
+          "Kubernetes",
+          "Distributed Systems",
+          "GPU Computing",
+          "AWS",
+          "Docker"
+        ]
+      },
+      "compensation": {
+        "salaryMin": 200000,
+        "salaryMax": 300000,
+        "currency": "USD",
+        "equity": true,
+        "bonus": true
+      },
+      "benefits": [
+        "Comprehensive health coverage",
+        "401(k) plan",
+        "Generous PTO",
+        "Parental leave",
+        "Meals and snacks",
+        "Cutting-edge research environment"
+      ],
+      "team": {
+        "size": 20,
+        "structure": "ML platform team supporting research and product"
+      },
+      "tags": ["ml-platform", "python", "pytorch", "distributed-systems", "gpu", "ai"]
+    }
+  ],
+  "metadata": {
+    "totalJobs": 12,
+    "lastUpdated": "2024-01-15T15:00:00Z",
+    "sources": ["greenhouse", "lever"],
+    "filters": {
+      "keywords": ["software engineer", "senior", "staff", "backend", "frontend", "full-stack"],
+      "locations": ["San Francisco", "New York", "Remote"],
+      "remote": true
+    }
+  }
+}

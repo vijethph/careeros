@@ -1,0 +1,375 @@
+{
+  "personalInfo": {
+    "fullName": "Sarah Chen",
+    "email": "sarah.chen@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "linkedin": "https://linkedin.com/in/sarahchen",
+    "github": "https://github.com/sarahchen",
+    "portfolio": "https://sarahchen.dev",
+    "preferredPronouns": "she/her"
+  },
+  "professionalSummary": "Full-stack software engineer with 6+ years of experience building scalable web applications and distributed systems. Specialized in TypeScript, React, Node.js, and cloud infrastructure. Proven track record of leading technical initiatives, mentoring junior engineers, and delivering high-impact features that improve user experience and business metrics. Passionate about clean code, system design, and building products that solve real problems.",
+  "targetRoles": [
+    "Senior Software Engineer",
+    "Staff Software Engineer",
+    "Full-Stack Engineer",
+    "Backend Engineer",
+    "Technical Lead"
+  ],
+  "targetSeniority": ["senior", "staff", "lead"],
+  "salaryExpectations": {
+    "min": 150000,
+    "max": 220000,
+    "currency": "USD",
+    "period": "annual"
+  },
+  "workPreferences": {
+    "remoteOnly": false,
+    "preferredLocations": ["San Francisco", "New York", "Remote"],
+    "willingToRelocate": true,
+    "visaSponsorship": false,
+    "availableToStart": "2 weeks notice"
+  },
+  "experience": [
+    {
+      "company": "TechCorp Inc",
+      "position": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "2021-03",
+      "endDate": null,
+      "current": true,
+      "description": "Lead engineer for the core platform team, responsible for building and maintaining microservices that power the company's main product.",
+      "achievements": [
+        "Architected and implemented a real-time notification system serving 2M+ daily active users with 99.9% uptime",
+        "Reduced API response time by 60% through database query optimization and caching strategies",
+        "Led migration from monolithic architecture to microservices, improving deployment frequency by 10x",
+        "Mentored 4 junior engineers, conducting code reviews and pair programming sessions",
+        "Established engineering best practices including CI/CD pipelines, automated testing, and code quality standards"
+      ],
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "React",
+        "PostgreSQL",
+        "Redis",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GraphQL",
+        "Jest"
+      ],
+      "metrics": {
+        "teamSize": 8,
+        "usersImpacted": 2000000,
+        "performanceImprovement": "60% faster API responses",
+        "uptime": "99.9%"
+      }
+    },
+    {
+      "company": "StartupXYZ",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "2019-01",
+      "endDate": "2021-02",
+      "current": false,
+      "description": "Full-stack engineer working on customer-facing features and internal tools for a fast-growing SaaS platform.",
+      "achievements": [
+        "Built end-to-end payment integration with Stripe, processing $5M+ in annual transactions",
+        "Developed admin dashboard used by 50+ internal team members, reducing support ticket resolution time by 40%",
+        "Implemented automated email campaigns system that increased user engagement by 25%",
+        "Collaborated with product and design teams to ship 20+ major features",
+        "Participated in on-call rotation, maintaining 99.5% service availability"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "AWS Lambda",
+        "S3",
+        "Stripe API",
+        "SendGrid",
+        "Mocha"
+      ],
+      "metrics": {
+        "teamSize": 5,
+        "revenue": "$5M+ processed",
+        "features": 20,
+        "uptime": "99.5%"
+      }
+    },
+    {
+      "company": "Digital Agency Co",
+      "position": "Junior Software Engineer",
+      "location": "New York, NY",
+      "startDate": "2017-06",
+      "endDate": "2018-12",
+      "current": false,
+      "description": "Frontend developer building responsive websites and web applications for various clients across different industries.",
+      "achievements": [
+        "Developed 15+ client websites using React and modern frontend technologies",
+        "Improved website load times by 50% through code splitting and lazy loading",
+        "Collaborated with designers to implement pixel-perfect UI components",
+        "Maintained and updated legacy codebases for existing clients",
+        "Participated in client meetings to gather requirements and provide technical guidance"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Sass",
+        "Webpack",
+        "Git",
+        "Figma",
+        "WordPress"
+      ],
+      "metrics": {
+        "projectsCompleted": 15,
+        "performanceImprovement": "50% faster load times"
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "location": "Berkeley, CA",
+      "startDate": "2013-09",
+      "endDate": "2017-05",
+      "gpa": 3.7,
+      "honors": ["Dean's List", "Cum Laude"],
+      "relevantCoursework": [
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Database Systems",
+        "Computer Networks",
+        "Software Engineering",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": {
+      "expert": ["TypeScript", "JavaScript", "Node.js", "React"],
+      "proficient": ["Python", "Go", "SQL", "GraphQL"],
+      "familiar": ["Java", "Rust", "C++"]
+    },
+    "frontend": [
+      "React",
+      "Next.js",
+      "Vue.js",
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "Tailwind CSS",
+      "Redux",
+      "React Query",
+      "Webpack",
+      "Vite"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "NestJS",
+      "FastAPI",
+      "REST APIs",
+      "GraphQL",
+      "WebSockets",
+      "Microservices"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "DynamoDB",
+      "Elasticsearch"
+    ],
+    "cloud": [
+      "AWS (EC2, S3, Lambda, RDS, CloudFront, ECS)",
+      "Google Cloud Platform",
+      "Vercel",
+      "Netlify",
+      "Heroku"
+    ],
+    "devops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD (GitHub Actions, Jenkins)",
+      "Terraform",
+      "Nginx",
+      "Linux"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Jira",
+      "Figma",
+      "Postman",
+      "DataDog",
+      "Sentry"
+    ],
+    "testing": [
+      "Jest",
+      "React Testing Library",
+      "Cypress",
+      "Mocha",
+      "Chai",
+      "Playwright"
+    ],
+    "soft": [
+      "Technical Leadership",
+      "Mentoring",
+      "Code Review",
+      "System Design",
+      "Agile/Scrum",
+      "Cross-functional Collaboration",
+      "Technical Writing",
+      "Problem Solving"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Open Source Contribution - React Query",
+      "description": "Active contributor to React Query, a popular data fetching library with 35k+ GitHub stars",
+      "role": "Contributor",
+      "url": "https://github.com/tanstack/react-query",
+      "achievements": [
+        "Fixed critical bug affecting 1000+ users",
+        "Improved documentation for advanced use cases",
+        "Participated in community discussions and issue triage"
+      ],
+      "technologies": ["TypeScript", "React", "Testing"]
+    },
+    {
+      "name": "DevTools Chrome Extension",
+      "description": "Built a Chrome extension for developers to debug API calls and inspect network traffic",
+      "role": "Creator",
+      "url": "https://github.com/sarahchen/devtools-extension",
+      "achievements": [
+        "1000+ active users",
+        "4.5 star rating on Chrome Web Store",
+        "Featured in developer newsletters"
+      ],
+      "technologies": ["JavaScript", "Chrome APIs", "React"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "issuer": "Amazon Web Services",
+      "issueDate": "2022-06",
+      "expiryDate": "2025-06",
+      "credentialId": "AWS-SAA-123456"
+    },
+    {
+      "name": "Professional Scrum Master I (PSM I)",
+      "issuer": "Scrum.org",
+      "issueDate": "2021-03",
+      "expiryDate": null,
+      "credentialId": "PSM-789012"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Building Scalable Microservices with Node.js",
+      "publisher": "Medium",
+      "date": "2023-08",
+      "url": "https://medium.com/@sarahchen/building-scalable-microservices",
+      "views": 15000
+    },
+    {
+      "title": "A Guide to React Performance Optimization",
+      "publisher": "Dev.to",
+      "date": "2023-03",
+      "url": "https://dev.to/sarahchen/react-performance",
+      "views": 8000
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "proficiency": "Professional Working"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Elementary"
+    }
+  ],
+  "interests": [
+    "Open Source Contribution",
+    "Technical Writing",
+    "Mentoring",
+    "System Design",
+    "Cloud Architecture",
+    "Developer Tools",
+    "Web Performance"
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-01-15",
+    "format": "careeros-cv-schema",
+    "source": "manual",
+    "parsedFrom": null
+  },
+  "preferences": {
+    "industries": [
+      "Technology",
+      "SaaS",
+      "Fintech",
+      "E-commerce",
+      "Developer Tools"
+    ],
+    "companySize": ["startup", "mid-size", "enterprise"],
+    "companyStage": ["Series A", "Series B", "Series C+", "Public"],
+    "dealBreakers": [
+      "No remote option",
+      "Outdated tech stack",
+      "Poor work-life balance",
+      "Lack of growth opportunities"
+    ],
+    "mustHaves": [
+      "Strong engineering culture",
+      "Mentorship opportunities",
+      "Modern tech stack",
+      "Competitive compensation",
+      "Health benefits"
+    ]
+  },
+  "careerGoals": {
+    "shortTerm": [
+      "Lead technical initiatives on a high-impact team",
+      "Deepen expertise in distributed systems and cloud architecture",
+      "Mentor junior and mid-level engineers"
+    ],
+    "longTerm": [
+      "Transition to Staff/Principal Engineer role",
+      "Contribute to open source projects",
+      "Build technical leadership skills",
+      "Eventually move into engineering management or technical architecture"
+    ]
+  },
+  "availability": {
+    "status": "actively-looking",
+    "noticePeriod": "2 weeks",
+    "startDate": "2024-02-01",
+    "interviewAvailability": {
+      "timezone": "America/Los_Angeles",
+      "preferredDays": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "preferredTimes": ["10:00-12:00", "14:00-16:00"]
+    }
+  }
+}
