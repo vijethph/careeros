@@ -8,3 +8,4 @@ export { ExtractSkillsTool } from "./ExtractSkillsTool";
 export { SyncProfileFromCvTool } from "./SyncProfileFromCvTool";
 export { GetProfileFeaturesTool } from "./GetProfileFeaturesTool";
 export { UpdateProfileTool } from "./UpdateProfileTool";
+export { EvaluateJobTool } from "./EvaluateJobTool";

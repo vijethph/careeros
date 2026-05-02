@@ -1,5 +1,5 @@
 {
-  "id": "c6e2663a-c215-4119-84fc-5b69cb7f575f",
+  "id": "23ea8084-26bf-423d-a079-7de8948033d3",
   "name": "FIRST LAST",
   "email": "sampleresume@gmail.com",
   "location": "",
@@ -39,56 +39,56 @@
     ],
     "experience": [
       {
-        "id": "56723cf0-4db0-4a1b-842a-df826c2e8517",
+        "id": "e4164452-40b9-4bb4-81fd-3612ceb076b8",
         "company": "automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven",
         "title": "automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "470b2bf9-7ca9-4dd0-b3b6-f00ec45f41a9",
+        "id": "71dd3858-ab86-4a53-9318-8d11a5626bd5",
         "company": "aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve",
         "title": "aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "2c822cee-10d0-488f-9c14-dfbbbdce18b4",
+        "id": "d1b90559-f2c5-4deb-831a-094f37715a3d",
         "company": "customer satisfaction, and achieve financial savings.",
         "title": "customer satisfaction, and achieve financial savings.",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "54b6b84c-4a4b-497d-9c20-1e6432e377df",
+        "id": "e6fa65f4-fbc3-4dc2-87eb-ebb0d1b88750",
         "company": "WALMART, INC., Bentonville, Arkansas",
         "title": "WALMART, INC., Bentonville, Arkansas",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "e35c01df-8305-4c18-8063-94265d0a12eb",
+        "id": "6fbdec45-a4ca-4b7e-991d-84dc0a890c1b",
         "company": "Programmer Analyst, Call Center Engineering Team, 2011‐2016",
         "title": "Programmer Analyst, Call Center Engineering Team, 2011‐2016",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "42c59b4d-8d8a-4454-87e3-3deba2536ec3",
+        "id": "64d95e11-f0c7-4fdf-b97e-df2254bf94a4",
         "company": "    Architected financial services hotline app for 8 countries in Central and South America.",
         "title": "    Architected financial services hotline app for 8 countries in Central and South America.",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "38233650-00a3-4bf8-962a-8d1e70c4e7e4",
+        "id": "d8744aeb-20e0-44d9-b49d-d24f23e1d050",
         "company": "    Implemented benefits hotline app rollout every year for US and Canada serving 1.4 million employees.",
         "title": "    Implemented benefits hotline app rollout every year for US and Canada serving 1.4 million employees.",
         "bulletPoints": [],
         "technologies": []
       },
       {
-        "id": "58a0df4b-17bf-4ba8-870f-1fbb710291f1",
+        "id": "54f2e0fc-870b-494c-9361-5f21d8c85756",
         "company": "    Optimized manual application tuning process with Java to fetch and process data, making process 20x faster.",
         "title": "    Optimized manual application tuning process with Java to fetch and process data, making process 20x faster.",
         "bulletPoints": [],
@@ -97,7 +97,7 @@
         ]
       },
       {
-        "id": "69eba1ac-81a1-401f-aa88-ef77791748fe",
+        "id": "e64d158c-528f-45f9-b0d2-eaf7bd35ef20",
         "company": "    Connected user‐facing web applications with SQL DBs using Spring REST web services.",
         "title": "    Connected user‐facing web applications with SQL DBs using Spring REST web services.",
         "bulletPoints": [],
@@ -108,7 +108,7 @@
         ]
       },
       {
-        "id": "5398ad96-a961-4759-bb3a-abc603707c4b",
+        "id": "9e3666bb-e68a-4fc3-85b7-16b4b56ba0a9",
         "company": "    Integrated agent monitoring system, improving call center efficiency by 30%. [Employee of the Month ‐ Dec 2012]",
         "title": "    Integrated agent monitoring system, improving call center efficiency by 30%. [Employee of the Month ‐ Dec 2012]",
         "bulletPoints": [],
@@ -117,85 +117,85 @@
     ],
     "education": [
       {
-        "id": "e125ea8f-b927-40f0-8321-8c73bfece38f",
+        "id": "3c5d7384-4dce-4433-ae9f-8a53472840a7",
         "institution": "UNIVERSITY OF ARIZONA, Tucson, Arizona"
       },
       {
-        "id": "ce6b8f67-f33e-481b-8619-c1bbffbb10d5",
+        "id": "d4714619-eda8-4968-a253-b9a863783259",
         "institution": "M.S., Computer Science, 2012"
       },
       {
-        "id": "13b5444e-6a7b-4cd1-8898-b9ff4e65eb23",
+        "id": "c4307318-fdf5-4aa7-b45e-602ef3073f90",
         "institution": "B.S.B.A., Management Information Systems, 2011"
       },
       {
-        "id": "fee050e5-5a52-41ce-a15c-3bf9c236a583",
+        "id": "60fd006a-b1bb-463b-a5e1-d346a4a2aca6",
         "institution": " Built front‐end using ReactJS and uses states to control permissions."
       },
       {
-        "id": "f912a4f1-c95e-445d-83b9-526d28f9bc4e",
+        "id": "7e3d03f6-ce76-43c0-9bd1-5cc5fece7648",
         "institution": "TagMe ● Front‐End Engineer / DevOps ● Code ● App"
       },
       {
-        "id": "a8e0e8d9-c2ae-4f82-aec2-505e16784698",
+        "id": "ae38a1e1-255e-4f8d-a892-93b240009502",
         "institution": "Photo diary and photo organizer that uses photo‐recognition APIs to tag and caption photos."
       },
       {
-        "id": "4f0390e9-15bf-473a-9eae-3a38297bab19",
+        "id": "c80a3b43-4125-467d-b2a5-2a0c7b25f95e",
         "institution": " Expanded and refined functionality of React Native codebase."
       },
       {
-        "id": "21a925dc-4f21-4102-b587-4484afce7dfa",
+        "id": "3ff34f18-6651-4ff1-b6e7-f7c4f3a06a36",
         "institution": " Implemented search, geo‐tags, and content sort using ExponentJS to improve UX."
       },
       {
-        "id": "4465f462-3901-4d56-9d20-a5b64eb3bca7",
+        "id": "7378642c-753a-4ea8-b784-64b0ea0c7cfd",
         "institution": " Configured continuous integration using CircleCI and Heroku to streamline build, test, and deployment."
       },
       {
-        "id": "db159e85-a2b0-4fed-83ec-c324805bd975",
+        "id": "06742170-ee8c-449e-ae2c-983ec9f9d965",
         "institution": " Rapidly prototyped and deployed mobile app using Exponent XDE."
       },
       {
-        "id": "438006ae-7d7d-4c75-8764-2ae6d8f5fead",
+        "id": "de612bf9-a64d-418e-b61c-08f2bd809e48",
         "institution": "Roadtrip Mood Music Generator ● Software Engineer ● Code"
       },
       {
-        "id": "a32a7c91-db11-452f-8f40-30ce6ee96b42",
+        "id": "347de9fb-e3e9-4bf8-874a-eca3c92d6cce",
         "institution": "Spotify playlist generator based on time of day and weather forecast of any given roadtrip route."
       },
       {
-        "id": "ffb56238-5430-43ec-b838-ad5b13b02653",
+        "id": "cb0cab9c-46ab-4c9a-96b6-8443db49060b",
         "institution": " Integrated OAuth authentication with Spotify using PassportJS."
       },
       {
-        "id": "ee5e8d47-f9a4-4cbf-bada-a1d225229658",
+        "id": "0c9d026d-1c15-49ca-bf88-a1453a583f2c",
         "institution": " Generated Spotify playlists tailored to user’s roadtrip route using Google Maps and Accuweather forecast."
       }
     ],
     "projects": [
       {
-        "id": "846cbbf9-f1b0-4dca-a643-c9e9a5bd8eab",
+        "id": "0f6f9616-df4d-4350-901a-4390fc8f7d45",
         "name": "PicoShell ● Software Engineer ● Code ● App"
       },
       {
-        "id": "f86bc399-b4a2-416a-aa66-7a45f028e5cf",
+        "id": "fa285479-29a0-4069-9e79-ebbf339daf67",
         "name": "Collaborative coding platform with a linux terminal, code editor, file browser, chat window, and video collection."
       },
       {
-        "id": "d8792b6b-b36d-4245-969a-af211f21d1e5",
+        "id": "158f151a-8130-4846-99e8-e7a8aa1a27c9",
         "name": " Connected users using Socket.io to chat and see immediate changes to collaborators’ code editor and terminal."
       },
       {
-        "id": "5a6a1c81-0502-4b79-8dee-400be075c810",
+        "id": "ca959333-f932-4597-8bcb-653f7651ab4c",
         "name": " Used Docker to emulate a UNIX environment in browser with drag and drop file upload and file download."
       },
       {
-        "id": "cd2c99b6-fe9f-40e6-8f62-0a66618098e6",
+        "id": "bf3b82ee-561c-4065-9427-79fcda97a71a",
         "name": " Created an API for Docker container control and NodeJS / ExpressJS server with a MySQL DB for user data."
       }
     ],
-    "lastParsedAt": "2026-05-02T13:12:53.406Z",
+    "lastParsedAt": "2026-05-02T13:25:24.105Z",
     "sourcePath": "data/sample-cv.pdf"
   },
   "skills": [

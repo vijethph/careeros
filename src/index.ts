@@ -1,5 +1,6 @@
 import { LuaAgent } from "lua-cli";
 import profileSkill from "./skills/profile-skill";
+import evaluationSkill from "./skills/evaluation-skill";
 
 /**
  * Your Lua AI Agent
@@ -23,7 +24,7 @@ const agent = new LuaAgent({
 `,
   model: "anthropic/claude-sonnet-4-6",
   // Add your skills here
-  skills: [profileSkill],
+  skills: [profileSkill, evaluationSkill],
 
   // Optional: Add webhooks for external integrations
   // webhooks: [],

@@ -4,7 +4,10 @@ agent:
 skills:
   - name: profile-skill
     skillId: 511a690b-4461-471c-b8d3-a654587b70f8
-    version: 1.0.0
+    version: 1.0.1
+  - name: evaluation-skill
+    skillId: e7acbbb0-586b-4e75-9bea-63c37c786be8
+    version: 1.0.1
 webhooks: []
 jobs: []
 preprocessors: []
