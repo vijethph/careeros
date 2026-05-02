@@ -1,0 +1,41 @@
+{
+  "name": "careeros",
+  "version": "0.1.0",
+  "description": "AI-powered job search pipeline built on Lua AI — portal scanning, offer evaluation, CV generation, and more.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint 'src/**/*.ts'",
+    "format": "prettier --write 'src/**/*.ts'"
+  },
+  "keywords": [
+    "job-search",
+    "ai",
+    "lua-ai",
+    "automation",
+    "agents"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "peerDependencies": {
+    "@heylua/sdk": "^1.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@heylua/sdk": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.4"
+  }
+}
