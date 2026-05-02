@@ -1,7 +1,10 @@
 agent:
   agentId: baseAgent_agent_1777729705529_94p6vq06k
   orgId: 4a0d24e2-98c0-4936-99c4-669320abec2b
-skills: []
+skills:
+  - name: company-research-skill
+    skillId: c764427f-77a5-4079-8a94-97abf3d48266
+    version: 1.0.1
 webhooks: []
 jobs: []
 preprocessors: []

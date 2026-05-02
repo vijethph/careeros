@@ -1,7 +1,10 @@
 agent:
   agentId: baseAgent_agent_1777729785992_gmna3lr67
   orgId: 4a0d24e2-98c0-4936-99c4-669320abec2b
-skills: []
+skills:
+  - name: job-evaluation-skill
+    skillId: 714ff99b-2996-4e28-9aa3-20fc077166a3
+    version: 1.0.3
 webhooks: []
 jobs: []
 preprocessors: []
