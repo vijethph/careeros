@@ -1,0 +1,15 @@
+agent:
+  agentId: baseAgent_agent_1777731699246_lx71shtfd
+  orgId: 5a533a08-8f1e-4d7d-899a-29c66f2dccf0
+skills:
+  - name: profile-skill
+    skillId: 276167b7-cf13-468b-aa09-15943a018e6f
+    version: 1.0.1
+  - name: evaluation-skill
+    skillId: 2f1ef2d0-07fa-4383-b039-e4eea28121c3
+    version: 1.0.1
+webhooks: []
+jobs: []
+preprocessors: []
+postprocessors: []
+mcpServers: []
